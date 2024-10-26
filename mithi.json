@@ -20,8 +20,33 @@
     {
       "id": 4,
       "title": "Mithi, a radiant beauty",
-      "image":"https://i.postimg.cc/nc23cLxd/Screenshot-2024-10-24-230905.png",
+      "image":"https://i.postimg.cc/LXvJgGsM/Screenshot-2024-10-24-231129.png",
       "description": "Mithi is a vision in this gorgeous maroon dress. Her long black hair cascades down her shoulders, framing her stunning face. Her eyes sparkle with life, and her smile is infectious. She looks confident and happy, ready to take on the world."
+    },
+     {
+      "id":5 ,
+      "title": "Sibling Mirror Selfie",
+      "image":"https://i.postimg.cc/XYgNLJm6/Screenshot-2024-10-24-231304.png",
+      "description": "Mithi and his brother pose together for a playful mirror selfie, both holding up their phones with matching smiles. The photo captures a casual and lighthearted moment between siblings, showcasing their close bond and relaxed vibe. Mithi is wearing a black top paired with green pants, while his brother complements the scene in a light green shirt, creating a harmonious look in their cozy home setting."
+    },
+     {
+      "id": 6,
+      "title": "Family Visit to Ram Mandir",
+      "image":"https://i.postimg.cc/SQVGB79n/Screenshot-2024-10-24-231236.png",
+      "description": "She and her family pose in front of the majestic Ram Mandir under construction, capturing a memorable moment at the iconic site. The family stands together, dressed in vibrant traditional attire, with the intricate architecture of the temple behind them. This visit symbolizes both family togetherness and a connection to cultural and spiritual heritage, as they witness the progress of this historic structure dedicated to Lord Ram."
+    },
+     {
+      "id":7 ,
+      "title": "Casual Mirror Selfie",
+      "image":"https://i.postimg.cc/tCq9Ty7r/Screenshot-2024-10-24-231320.png",
+      "description": "In this black-and-white mirror selfie, she poses casually, wearing a playful T-shirt that says 'Donut Worry, Be Happy.' With a relaxed expression and minimalistic background, the image captures a cozy, laid-back moment at home. A small heart sticker and animated character on the screen add a fun touch to the selfie, emphasizing her cheerful personality."
+    },
+     {
+      "id":8 ,
+      "title": "na",
+      "image":"na",
+      "description": "NA"
     }
+   
   ]
 
